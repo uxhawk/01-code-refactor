@@ -1,5 +1,5 @@
 <h1>Horiseon Refactor</h1>
-    <p>The <a href="https://uxhawk.github.io/class-activities/week-01/homework/horiseon-hawkins/" target="blank">Horiseon</a> homepage
+    <p>The <a href="https://uxhawk.github.io/gw-hmwk-01-code-refactor/" target="blank">Horiseon</a> homepage
         is now a responsive website capable of displaying content in mobile, tablet, and desktop
         friendly layouts. Mobile and tablet menus animate to display links. The site relies on Bootstrap CSS and custom
         styles to align with Horiseon branding.</p>
